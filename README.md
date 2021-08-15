@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyungGeun-Cho
 - 👀 I’m interested in Urban Data Science.
 - 🌱 I’m currently learning Python & JAVA.
-- 💞️ I’m looking to collaborate on any fun developer projects :)
+- 💞️ I’m looking to collaborate on any fun projects :)
 - 📫 How to reach me -> chris1503@snu.ac.kr
 
 <!---
