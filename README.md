@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HyungGeun-Cho
 - 👀 I’m interested in Urban Data Science.
 - 🌱 I’m currently learning Python & JAVA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on any fun developer projects :)
+- 📫 How to reach me -> chris1503@snu.ac.kr
 
 <!---
 HyungGeun-Cho/HyungGeun-Cho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
