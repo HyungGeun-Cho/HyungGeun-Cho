@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HyungGeun-Cho
-- 👀 I’m interested in Urban Data Science.
+- 👀 I’m studying Computer Science & Engineering + Civil & Environmental Engineering at SNU
 - 🌱 I’m currently learning Deep Learning & BACKEND.
 - 💞️ I’m looking to collaborate on any fun projects :)
 - 📫 How to reach me -> chris1503@snu.ac.kr
